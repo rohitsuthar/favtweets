@@ -1,0 +1,30 @@
+
+Yii extension for display favorite tweets in a beautiful CSS3 interface. It will use Twitter’s v1.1 OAuth API and the Codebird library.
+
+
+Author: Rohit Suthar <rohitsuthar@gmail.com>
+Copyright 2014 Yii Expert
+Package: favtweets
+Version: 1.0
+
+For more extension & tutorials visit - https://yiiexpert.github.io
+
+
+Like Us on -  https://facebook.com/yiiexperts
+Follow Us on -  https://twitter.com/yiiexperts
+
+
+Contact Me -
+http://fb.com/rohisuthar
+
+
+For Query -
+Mail us - yiiexpert@gmail.com
+
+
+Github -
+https://github.com/yiiexpert/favtweets/
+https://github.com/rohitsuthar/favtweets/
+
+
+Thanks for the support!!
